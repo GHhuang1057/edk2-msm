@@ -2,7 +2,7 @@
 
 // ACPI Tables
 FILE FREEFORM = 7E374E25-8E01-4FEE-87F2-390C23C606CD {
-# 	Common Tables
+// # 	Common Tables
 	SECTION RAW = Silicon/Qualcomm/sm7150/AcpiTables/BuiltIn/bgrt.acpi
 # 	SECTION RAW = Silicon/Qualcomm/sm7150/AcpiTables/BuiltIn/Csrt.acpi
 # 	SECTION RAW = Silicon/Qualcomm/sm7150/AcpiTables/BuiltIn/dbg2.acpi
@@ -21,14 +21,3 @@ FILE FREEFORM = 7E374E25-8E01-4FEE-87F2-390C23C606CD {
 //FILE FREEFORM = 25462CDA-221F-47DF-AC1D-259CFAA4E326 {
   //SECTION RAW = Platform/Bbkedu/sm7150/FdtBlob_compat/s6.dtb
 //}
-
-
-
-
-
-
-
-
-
-
-
